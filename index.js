@@ -9,11 +9,7 @@ class Driver {
   }
 }
 
-class Route {
-  constructor(beginningLocation, endingLocation) {
-    
-  }
-  let eastWest = [
+let eastWest = [
   '1st Avenue',
   '2nd Avenue',
   '3rd Avenue',
@@ -22,5 +18,10 @@ class Route {
   'Madison Avenue',
   '5th Avenue'
   ];
+
+class Route {
+  constructor(beginningLocation, endingLocation) {
+    
+  }
   
 }
