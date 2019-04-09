@@ -8,3 +8,7 @@ class Driver {
     return parseInt(endDate) - this.startDate.getFullYear();
   }
 }
+
+class Route {
+  constructor
+}
