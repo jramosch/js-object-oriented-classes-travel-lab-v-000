@@ -26,6 +26,6 @@ class Route {
   }
   
   blocksTravelled() {
-    
+    let horizontalTotal = this.beginningLocation.horizontal 
   }
 }
