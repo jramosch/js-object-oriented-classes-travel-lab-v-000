@@ -10,5 +10,8 @@ class Driver {
 }
 
 class Route {
-  constructor
+  constructor(horizontal, vertical) {
+    this.horizontal = horizontal;
+    this.vertical = vertical;
+  }
 }
