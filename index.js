@@ -25,4 +25,5 @@ class Route {
     this.endingLocation = endingLocation;
   }
   
+  
 }
